@@ -1,1 +1,1 @@
-worker: python proj.py
+worker: python ner.py
